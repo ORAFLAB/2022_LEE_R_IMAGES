@@ -6,6 +6,6 @@ Due to github upload policies Sample A (WT) is found in this repositor while the
 
 Sample B (): https://github.com/ORAFLAB/Sample_B <br />
 Sample C (): https://github.com/ORAFLAB/Sample_C <br />
-Sample D (): x <br />
-Sample E (): x <br />
-Sample F (): x <br />
+Sample D (): https://github.com/ORAFLAB/Sample_D <br />
+Sample E (): https://github.com/ORAFLAB/Sample_E <br />
+Sample F (): https://github.com/ORAFLAB/Sample_F <br />

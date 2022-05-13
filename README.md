@@ -4,8 +4,8 @@ All files are broken up into smaller archives for uploading purposes as the inta
 
 Due to github upload policies Sample A (WT) is found in this repositor while the others are found in individual repositories as below:
 
-Sample B (): https://github.com/ORAFLAB/Sample_B <br />
-Sample C (): https://github.com/ORAFLAB/Sample_C <br />
-Sample D (): https://github.com/ORAFLAB/Sample_D <br />
-Sample E (): https://github.com/ORAFLAB/Sample_E <br />
-Sample F (): https://github.com/ORAFLAB/Sample_F <br />
+Sample B (PEX26): https://github.com/ORAFLAB/Sample_B <br />
+Sample C (GOLGA5): https://github.com/ORAFLAB/Sample_C <br />
+Sample D (GOLGA8M): https://github.com/ORAFLAB/Sample_D <br />
+Sample E (SEC61A2): https://github.com/ORAFLAB/Sample_E <br />
+Sample F (SEC62): https://github.com/ORAFLAB/Sample_F <br />

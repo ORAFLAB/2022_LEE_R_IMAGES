@@ -2,7 +2,9 @@
 
 All files are broken up into smaller archives for uploading purposes as the intact file is greater than Github's upload limits.
 
-Due to github upload policies Sample A (WT) is found in this repositor while the others are found in individual repositories as below:
+Roi is an acronym for 'region of interest'
+
+Due to github upload policies Sample A (WT) is found in this repository while the others are found in individual repositories as below:
 
 Sample B (PEX26): https://github.com/ORAFLAB/Sample_B <br />
 Sample C (GOLGA5): https://github.com/ORAFLAB/Sample_C <br />
